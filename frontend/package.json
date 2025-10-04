@@ -1,0 +1,32 @@
+{
+  "name": "parlamentni-kontrola-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "test": "echo \"No unit tests yet\""
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.3",
+    "@reduxjs/toolkit": "^2.2.5",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.3",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "react-virtualized-auto-sizer": "^1.0.24",
+    "recharts": "^2.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.3"
+  }
+}
